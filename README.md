@@ -41,6 +41,7 @@
     - [Configuration](#configuration)
     - [Continuous Integration (CI)](#continuous-integration-ci)
     - [Data analysis & data science](#data-analysis--data-science)
+    - [Data semantics](#data-semantics)
     - [Databases](#databases)
       - [Internals](#internals)
       - [NoSQL](#nosql)
@@ -654,6 +655,7 @@ About senior engineers:
   - [Being visible](https://staffeng.com/guides/being-visible)
   - [Additional resources on Staff-plus engineering](https://staffeng.com/guides/learning-materials)
 - [Staff archetypes](https://staffeng.com/guides/staff-archetypes/), Will Larson
+- [How I Find Problems to Solve as a Staff Engineer](https://lalitm.com/post/find-problems-staff-engineer/)
 
 ### Characters sets
 
@@ -757,6 +759,10 @@ See also the Writing section
   - Don’t include confidence intervals
   - Don’t challenge your own data
 - 📖 [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/), O'Reilly
+
+### Data semantics
+
+- [Making Your Data Ready for Agentic AI](https://martinfowler.com/articles/making-data-ready-for-agentic-ai.html), martinfowler.com
 
 ### Databases
 
@@ -914,6 +920,7 @@ Typograhy: see "Typography" section
 Resources:
 
 - 🧰 [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers): design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools...
+- [Interfaces › Cheat Sheet](https://interfaces.dev/cheat-sheet)
 
 ### Design (OO modeling, architecture, patterns, anti-patterns, etc.)
 
@@ -1559,6 +1566,7 @@ _See also: [Site Reliability Engineering (SRE)](#site-reliability-engineering-sr
 - [Guide on Structured Logs](https://signoz.io/blog/structured-logs/)
 - [What an error log level should mean](https://utcc.utoronto.ca/~cks/space/blog/programming/ErrorsShouldRequireFixing)
 - [Logging Sucks - Your Logs Are Lying To You](https://loggingsucks.com/)
+- [Instrumenting distributed systems for operational visibility](https://builder.aws.com/content/3EuxPBdIiiUhB5IK47p3O3fxhy7/instrumenting-distributed-systems-for-operational-visibility), AWS Builder Center
 
 #### Error/exception handling
 
@@ -2077,6 +2085,7 @@ Reading lists:
 - 🧰 [System Design Cheatsheet](https://gist.github.com/vasanthk/485d1c25737e8e72759f)
 - ⭐️ [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design): learn how to design systems at scale and prepare for system design interviews
 - [A Distributed Systems Reading List](https://ferd.ca/a-distributed-systems-reading-list.html)
+- [Distributed Systems Classics](https://nvartolomei.com/dist-sys-classics/)
 
 Blogs:
 
